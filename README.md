@@ -18,3 +18,4 @@ Dependencies:
 Python 3.x
 Tkinter (usually included with Python installations)
 Feel free to explore, modify, and enhance the code to suit your specific needs. If you have any questions or suggestions, please open an issue or submit a pull request.
+![Screenshot 2023-12-03 002833](https://github.com/Mostafamahmoud12824/Restaurant-Management-System/assets/62766443/1f3196ce-5828-4032-8ef8-63a0734ffe5e)
