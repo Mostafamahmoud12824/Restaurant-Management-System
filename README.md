@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# Restaurant-Management-System-in-python
 This repository contains a Python script for a restaurant management system built with Tkinter, a popular GUI toolkit. The system provides a simple interface for managing orders, generating receipts, and maintaining a price list.
 
 Features:
